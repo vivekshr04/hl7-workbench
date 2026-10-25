@@ -1,0 +1,11 @@
+target/
+build/
+dist/
+*.class
+*.jar
+*.app
+*.dmg
+.DS_Store
+.idea/
+.vscode/
+*.iml
